@@ -1,0 +1,22 @@
+Bienvenue sur notre page de contact !
+
+Vous avez besoin de réparer votre matériel informatique ou vous avez des questions à nous poser ? Nous sommes à votre disposition pour vous aider.
+
+Voici comment vous pouvez nous contacter :
+
+Par téléphone : appelez-nous au 01 02 03 04 05 du lundi au vendredi de 9h à 17h.
+
+Par email : envoyez-nous un email à l'adresse contact@nomdelentreprise.com. Nous vous répondrons dans les plus brefs délais.
+
+Via le formulaire de contact : remplissez le formulaire ci-dessous et nous vous répondrons par email dès que possible.
+
+Nom *
+Email *
+Téléphone
+Message *
+
+Envoyer
+
+Nous sommes ouverts du lundi au vendredi de 9h à 17h. Si vous avez besoin de nous contacter en dehors de ces horaires, n'hésitez pas à laisser un message et nous vous répondrons dès que possible.
+
+Merci de votre confiance !
