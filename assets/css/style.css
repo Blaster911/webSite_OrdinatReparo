@@ -58,7 +58,7 @@ h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: #151515;
+  color: #fff;
   line-height: 0;
 }
 
@@ -691,7 +691,7 @@ section {
 }
 
 .services .icon-box .icon i {
-  color: #151515;
+  color: #fff;
   font-size: 28px;
   transition: ease-in-out 0.3s;
 }
@@ -792,7 +792,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #151515;
+  color: #fff;
   background: var(--secondary-color-);
 }
 
@@ -1238,7 +1238,7 @@ section {
 .contact .info i {
   font-size: 20px;
   background: var(--secondary-color-);
-  color: #151515;
+  color: #fff;
   float: left;
   width: 44px;
   height: 44px;
@@ -1345,7 +1345,7 @@ section {
   background: var(--secondary-color-);
   border: 0;
   padding: 10px 24px;
-  color: #151515;
+  color: #fff;
   transition: 0.4s;
   border-radius: 4px;
 }
@@ -1558,7 +1558,7 @@ section {
   font-size: 16px;
   padding: 0 20px;
   background: var(--secondary-color-);
-  color: #151515;
+  color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
 }
